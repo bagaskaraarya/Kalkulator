@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\Kalkulator_25\Kalkulator_25\bin\Debug\Kalkulator_25.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Kalkulator_25\Kalkulator_25\bin\Debug\Kalkulator_25.exe
+c:\users\user\documents\visual studio 2015\Projects\Kalkulator_25\Kalkulator_25\bin\Debug\Kalkulator_25.pdb
+c:\users\user\documents\visual studio 2015\Projects\Kalkulator_25\Kalkulator_25\obj\Debug\Kalkulator_25.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Kalkulator_25\Kalkulator_25\obj\Debug\Kalkulator_25.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Kalkulator_25\Kalkulator_25\obj\Debug\Kalkulator_25.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Kalkulator_25\Kalkulator_25\obj\Debug\Kalkulator_25.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Kalkulator_25\Kalkulator_25\obj\Debug\Kalkulator_25.exe
+c:\users\user\documents\visual studio 2015\Projects\Kalkulator_25\Kalkulator_25\obj\Debug\Kalkulator_25.pdb
